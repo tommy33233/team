@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{955C464A-E49C-44C4-9954-2F0B1FEAC3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{23D9751D-225E-455E-A20D-C34416B8E8BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{06CB838E-BE76-473E-A5B9-72691F384A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955C464A-E49C-44C4-9954-2F0B1FEAC3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955C464A-E49C-44C4-9954-2F0B1FEAC3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955C464A-E49C-44C4-9954-2F0B1FEAC3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955C464A-E49C-44C4-9954-2F0B1FEAC3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D9751D-225E-455E-A20D-C34416B8E8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D9751D-225E-455E-A20D-C34416B8E8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D9751D-225E-455E-A20D-C34416B8E8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D9751D-225E-455E-A20D-C34416B8E8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CB838E-BE76-473E-A5B9-72691F384A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CB838E-BE76-473E-A5B9-72691F384A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CB838E-BE76-473E-A5B9-72691F384A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CB838E-BE76-473E-A5B9-72691F384A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
